@@ -1,9 +1,5 @@
 <?php
-
-namespace CrCms\Kernel\Models\Traits;
-
-
-use CrCms\Kernel\Models\SoftDeletingScope;
+namespace CrCms\SoftDeleteTimestamp;
 
 trait SoftDeletes
 {

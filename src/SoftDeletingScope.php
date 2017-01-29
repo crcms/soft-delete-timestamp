@@ -1,6 +1,5 @@
 <?php
-
-namespace CrCms\Kernel\Models;
+namespace CrCms\SoftDeleteTimestamp;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model as BaseModel;
